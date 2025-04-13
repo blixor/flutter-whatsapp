@@ -1,6 +1,7 @@
-package com.example.flutterwhatsapp
+ package com.example.flutterwhatsapp
 
 import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity: FlutterActivity() {
+
+ class MainActivity: FlutterActivity() {
 }
